@@ -3,3 +3,8 @@
     flex-direction: column;
     gap: 32px;
 }
+
+.container>div {
+    display: flex;
+    flex-direction: column;
+}
